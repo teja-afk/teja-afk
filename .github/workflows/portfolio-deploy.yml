@@ -6,7 +6,7 @@ on:
     paths:
       - '**.html'
 
-  # workflow_dispatch:
+  workflow_dispatch:
 
 permissions:
   pages: write
